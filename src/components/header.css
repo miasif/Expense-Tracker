@@ -1,0 +1,23 @@
+/* Header.css */
+
+.custom-btn a {
+  color: #3081d0;
+  font-weight: 600;
+  background-color: transparent;
+  padding: 8px 16px;
+  border: 1px solid #3081d0;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.custom-btn a:hover {
+  color: #fff;
+  background-color: #3081d0;
+}
+
+.nav-link-brand {
+  font-weight: 600;
+  color: black;
+text-decoration: none;
+font-size: 20px;
+}
